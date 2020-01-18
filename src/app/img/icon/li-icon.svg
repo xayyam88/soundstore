@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 8" width="8" height="8">
+	<defs>
+		<image width="8" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAAXNSR0IB2cksfwAAAFpQTFRFAOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/AOr/jQSvJgAAAB50Uk5TAEuAFi3Q/m0jwv/RGbX5EajuFZqrdds1m+L76KEzJnjj+wAAADxJREFUeJwdxdkCgBAUBcCjKJ2ItGjz/7+Za14GEKrr29oMo2wncq47T3IBQqxzRdpk7jjaZ0a+7uf9Cn430AJ/zwI8NwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Features">
+		<g id="1">
+			<use id="1" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

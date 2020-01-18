@@ -1,0 +1,40 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="26" width="26" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <g id="svg_3">
+     <rect fill="#00e8d4" id="svg_4" height="5.725368" width="5.941054" y="8.980242" x="8.911615"/>
+     <rect fill="#00e8d4" id="svg_5" height="5.725368" width="5.941054" y="0.392157" x="0"/>
+     <rect fill="#00e8d4" id="svg_6" height="5.725368" width="5.941054" y="17.568327" x="8.911615"/>
+     <rect fill="#00e8d4" id="svg_7" height="5.725368" width="5.941054" y="8.980242" x="0"/>
+     <rect fill="#00e8d4" id="svg_8" height="5.725368" width="5.941054" y="17.568327" x="0"/>
+     <rect fill="#00e8d4" id="svg_9" height="5.725368" width="5.941054" y="0.392157" x="17.823231"/>
+     <rect fill="#00e8d4" id="svg_10" height="5.725368" width="5.941054" y="0.392157" x="8.911615"/>
+     <rect fill="#00e8d4" id="svg_11" height="5.725368" width="5.941054" y="8.980242" x="17.823231"/>
+     <rect fill="#00e8d4" id="svg_12" height="5.725368" width="5.941054" y="17.568327" x="17.823231"/>
+    </g>
+   </g>
+  </g>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_19"/>
+  <g id="svg_20"/>
+  <g id="svg_21"/>
+  <g id="svg_22"/>
+  <g id="svg_23"/>
+  <g id="svg_24"/>
+  <g id="svg_25"/>
+  <g id="svg_26"/>
+  <g id="svg_27"/>
+ </g>
+</svg>

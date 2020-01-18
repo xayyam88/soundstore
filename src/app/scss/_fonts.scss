@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Gobold Bold';
+    src: url('../fonts/Gobold_Bold.woff') format('woff'),
+    url('../fonts/Gobold_Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@mixin Gobold_Bold {
+    font-family: 'Gobold Bold', sans-serif;
+}

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 17" width="19" height="17">
+	<defs>
+		<image width="19" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAARCAMAAAAIRmf1AAAAAXNSR0IB2cksfwAAAGNQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////g5uJoAAAACF0Uk5TAC6iWwNn5//6lBclqdBFAl3e94YPHJ7EOgxg5h74++zzCDyfrwAAAFRJREFUeJxjYIACRiZmBlTAwsrGzsHJhSzEzcMOArx8cBF+AUF2CBASFoEIiYqxI4C4BFBEUkqaHQUIy8D0ywJ5smgWD3YxOaCYHJqYvIKCgjyUDQArsAZjxIm0sgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Products">
+		<g id="Selection Arrows">
+			<use id="Up Arrow" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

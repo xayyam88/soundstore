@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 105 73" width="105" height="73">
+	<defs>
+		<image width="49" height="17" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAARCAMAAABD7rQYAAAAAXNSR0IB2cksfwAAAJZQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////zAuj6wAAADJ0Uk5TAAgJOUhvvgdm/19g3SpSo6y3s7HP+mP95DHwn/j7YsXRzcvfmAZWIPJPjQV04hlwFBiRudldAAAAeUlEQVR4nJXQRwKCQBBE0UJQKVAMBAUTZkEBuf/lcDzB1F/0qt+mAPuckfD8z/VUMZ5MReEzEEXI2VwTEblwgOXKonVsSsg0AzaU2uYoNMEd9ho4HHEqLTpfTNefuN2VrR5k+ZTWDfmqJICM9VsTn6bVAKJOBPj25g5ichHww+UqUgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Add to Cart">
+		<use id="Arrow" href="#img1" x="28" y="28" />
+	</g>
+</svg>
